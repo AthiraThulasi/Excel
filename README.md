@@ -15,4 +15,12 @@ This project demonstrates.
 
 •	Visualizing Data
 
+Excel Concepts Utilized : Power Query, Pivot Charts, Slicers, Data Visualization with Different Charts, Creating Tabular Columns, Conditional Formatting and Label Encoding
+
+Excel Functions Employed: COUNT(), COUNTIF(), AVERAGE(), MEDIAN(), SEQUENCE(), XLOOKUP(), TRANSFORM(), SORT(), FILTER(), CHOOSECOLS(), IF(), Nested IF() Statements
+
+
+
+
+
 
