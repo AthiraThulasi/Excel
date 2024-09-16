@@ -5,6 +5,7 @@
 ## Understand the Dataset:
 
 Review the dataset to understand its structure and the key information it contains.
+
 Identify any potential relationships between tables or datasets.
 
 ## Import Data:
@@ -38,6 +39,7 @@ Once the data is cleaned and transformed, load it into Power Pivot for advanced 
 ## Data Modeling:
 
 Define Relationships: Create relationships between tables in Power Pivot to establish connections between datasets (e.g., linking customer data to sales data).
+
 Create Measures Using DAX: Write DAX (Data Analysis Expressions) formulas to create measures for advanced calculations and metrics.
 
 ## Create Visual Reports:
@@ -51,4 +53,5 @@ Cross-check the outputs and ensure all calculations and relationships work corre
 ## Document Insights and Findings:
 
 Summarize key insights and document any conclusions or action points derived from the analysis.
+
 This workflow ensures that you cover the essential steps in preparing and analyzing data using Excel, Power Query, and Power Pivot.
