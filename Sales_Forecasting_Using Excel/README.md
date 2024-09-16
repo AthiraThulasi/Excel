@@ -1,4 +1,19 @@
 # Forecasting using Excel
+
+Forecasting is a technique used to predict future values based on historical data.
+
+It involves analyzing past trends, patterns, and relationships to estimate what might happen in the future.
+
+For example, sales forecasting, use sales data to predict future sales. 
+
+This could involve:
+
+Analyzing trends: Identifying upward or downward trends in sales over time.
+
+Identifying seasonal patterns: Determining if sales fluctuate based on seasons or holidays.
+
+Considering external factors: Examining how factors like economic conditions or marketing campaigns might impact sales.
+
 ## Home Depot Sales Forecasting Project
 
 ## Project Overview
@@ -46,7 +61,17 @@ Plotting the sales data to get a clear overview of historical trends
 
 **Forecasting Algorithm:**
 
-  The forecast sheet in Excel uses the **Exponential Triple Smoothing (ETS) algorithm**, which is effective for time series forecasting.
+The forecast sheet in Excel uses the **Exponential Triple Smoothing (ETS) algorithm**, which is effective for time series forecasting.
+
+  =FORECAST.ETS(forecast_date, known_y_values, known_x_values).
+
+Retrieves Data: Excel retrieves the values in the known_y_values and known_x_values ranges. These ranges typically contain your historical data.
+
+Applies Algorithm: Excel applies the Exponential Triple Smoothing algorithm to analyze the historical data and identify trends, seasonality, and other patterns.
+
+Calculates Forecast: Based on the analysis, Excel calculates the forecasted value for the specified forecast_date.
+
+Returns Result: Excel returns the calculated forecast value to the cell where you entered the formula.
   
   ETS: Exponential Triple Smoothing algorithm smooths the data by considering trends, seasonality, and noise, providing a reliable forecast for future values.
 
