@@ -48,7 +48,7 @@ Use a line chart to visualize the historical sales data.
   
   ETS: Exponential Triple Smoothing algorithm smooths the data by considering trends, seasonality, and noise, providing a reliable forecast for future values.
 
-
+![Plotting the future predictions ] (https://github.com/AthiraThulasi/Excel/blob/main/Sales_Forecasting_Using%20Excel/Future_predictions.png)
  
  ## Analysis
  
