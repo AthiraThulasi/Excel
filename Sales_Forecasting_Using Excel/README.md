@@ -64,15 +64,15 @@ The forecast sheet in Excel uses the **Exponential Triple Smoothing (ETS) algori
 
   =FORECAST.ETS(forecast_date, known_y_values, known_x_values).
 
-Retrieves Data: Excel retrieves the values in the known_y_values and known_x_values ranges. These ranges typically contain your historical data.
+Retrieves Data: Excel retrieves the values in the known_y_values and known_x_values ranges. These ranges typically contain the historical data.
 
-Applies Algorithm: Excel applies the Exponential Triple Smoothing algorithm to analyze the historical data and identify trends, seasonality, and other patterns.
+Applies Algorithm: Excel applies the Exponential Triple Smoothing algorithm to analyze the historical data,identify trends, seasonality, and other patterns.
 
 Calculates Forecast: Based on the analysis, Excel calculates the forecasted value for the specified forecast_date.
 
-Returns Result: Excel returns the calculated forecast value to the cell where you entered the formula.
+Returns Result: Excel returns the calculated forecast value to the cell where the formula is entered.
   
-  ETS: Exponential Triple Smoothing algorithm smooths the data by considering trends, seasonality, and noise, providing a reliable forecast for future values.
+ETS: Exponential Triple Smoothing algorithm smooths the data by considering trends, seasonality, and noise, providing a reliable forecast for future values.
 
 ![Future Predictions](https://raw.githubusercontent.com/AthiraThulasi/Excel/main/Sales_Forecasting_Using%20Excel/Future_predictions.png)
  
