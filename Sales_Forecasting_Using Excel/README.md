@@ -37,7 +37,7 @@ The main objective of this project is to create a sales forecast for the upcomin
 
 Use a line chart to visualize the historical sales data.
 
-Plot the sales data to get a clear overview of historical trends.
+![Plotting the sales data to get a clear overview of historical trends](https://github.comthiraThulasi/Excel/blob/main/Sales_Forecasting_Using%20Excel/Historical_Data.png)
 
 ## Forecasting
 
