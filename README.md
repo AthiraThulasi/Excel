@@ -53,4 +53,4 @@ Cross-check the outputs and ensure all calculations and relationships work corre
 
 Summarize key insights and document any conclusions or action points derived from the analysis.
 
-This workflow ensures that you cover the essential steps in preparing and analyzing data using Excel, Power Query, and Power Pivot.
+This workflow ensures that we cover the essential steps in preparing and analyzing data using Excel, Power Query, and Power Pivot.
