@@ -38,7 +38,7 @@ The main objective of this project is to create a sales forecast for the upcomin
 Use a line chart to visualize the historical sales data.
 
 ![Plotting the sales data to get a clear overview of historical trends]
-(https://github.com/AthiraThulasi/Excel/blob/main/Sales_Forecasting_Using%20Excel/Historical_Data.png)
+([https://github.com/AthiraThulasi/Excel/blob/main/Sales_Forecasting_Using%20Excel/Historical_Data.png])
 
 ## Forecasting
 
@@ -47,7 +47,9 @@ Use a line chart to visualize the historical sales data.
   The forecast sheet in Excel uses the **Exponential Triple Smoothing (ETS) algorithm**, which is effective for time series forecasting.
   
   ETS: Exponential Triple Smoothing algorithm smooths the data by considering trends, seasonality, and noise, providing a reliable forecast for future values.
-  
+
+
+ 
  ## Analysis
  
  **Overall Trend:**
