@@ -1,6 +1,5 @@
 
-# Before starting any Excel project, it’s important to follow a systematic approach to ensure the data is well-prepared and ready for analysis
-
+# Data Preparation: A Foundation for Successful Excel Projects
 
 ## Understand the Dataset:
 
