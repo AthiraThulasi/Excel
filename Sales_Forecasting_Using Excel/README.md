@@ -18,7 +18,6 @@ Considering external factors: Examining how factors like economic conditions or 
 
 ## Project Overview
 This project focuses on forecasting future sales based on historical sales data from Home Depot. 
-Forecasting involves predicting a future value based on existing historical values.
 
 ## Dataset
 
