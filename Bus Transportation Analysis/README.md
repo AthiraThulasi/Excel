@@ -32,6 +32,8 @@ The primary objective of this analysis is to evaluate the operational efficiency
 
 ➡️ Success Criteria: What will be considered a success?
 
+✨✨ Swipe through the slides to see the highlights & answers of my analysis project! ✨✨
+
 # 𝑲𝒆𝒚 𝑻𝒂𝒌𝒆𝒂𝒘𝒂𝒚𝒔
 
 ⭐ 𝑭𝒐𝒓𝒎𝒖𝒍𝒂𝒕𝒊𝒏𝒈 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒇𝒖𝒍 𝒒𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔 𝒃𝒂𝒔𝒆𝒅 𝒐𝒏 𝒕𝒉𝒆 𝒅𝒂𝒕𝒂𝒔𝒆𝒕 𝒕𝒐 𝒅𝒆𝒓𝒊𝒗𝒆 𝒎𝒆𝒂𝒏𝒊𝒏𝒈𝒇𝒖𝒍 𝒊𝒏𝒔𝒊𝒈𝒉𝒕𝒔.
