@@ -1,6 +1,6 @@
 # Data Analysis of Bus Transportation Data 
 
-## Objective
+# Objective
 The primary objective of this analysis is to evaluate the operational efficiency and rider behavior and thereby evaluating the performance of the bus transportation system.
 
 # Bus Transportation Dashboard 
