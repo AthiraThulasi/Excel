@@ -32,7 +32,7 @@ The primary objective of this analysis is to evaluate the operational efficiency
 
 ➡️ Success Criteria: What will be considered a success?
 
-✨✨ Swipe through the slides to see the highlights & answers of my analysis project! ✨✨
+✨✨ Swipe through the presentation slides to see the highlights & answers of my analysis project! ✨✨
 
 # 𝑲𝒆𝒚 𝑻𝒂𝒌𝒆𝒂𝒘𝒂𝒚𝒔
 
