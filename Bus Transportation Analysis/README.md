@@ -53,6 +53,7 @@ The primary objective of this analysis is to evaluate the operational efficiency
 ## Challenges Faced
 
 (1) Date Column Imported as Text in Power Query - Changing the format via Power Query didn't work.
+
     Solution: Used Excel's Text to Columns - Data  >> Text to Columns >> Chose Date format and applied the correct date format
 
 
